@@ -1,0 +1,32 @@
+_repo: Jeanne-la-Fileuse-pisode-de-l--migration-Franco-Canadienne-aux--tats-Unis_14536
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beaugrand, Honoré
+    alias: Beaugrand, Honore
+    birthdate: 1848
+    deathdate: 1906
+    gutenberg_agent_id: '5567'
+    url: http://www.gutenberg.org/2009/agents/5567
+    wikipedia: http://en.wikipedia.org/wiki/Honoré_Beaugrand
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14536'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French-Canadians -- United States -- Fiction'
+- !lcsh 'Québec (Province) -- Emigration and immigration -- Fiction'
+title: 'Jeanne la Fileuse
+
+  Épisode de l''Émigration Franco-Canadienne aux États-Unis'
+url: http://www.gutenberg.org/ebooks/14536
